@@ -34,17 +34,17 @@ npm start
 
 Módulos JSX y React Components:
 
-![](/image/1.jpg)
+![](/img/1.jpg)
 
 ## Part 2: Create React Components for the TODO App
 
-![](/image/2.jpg)
+![](/img/2.jpg)
 
-![](/image/3.jpg)
+![](/img/3.jpg)
 
-![](/image/4.jpg)
+![](/img/4.jpg)
 
-![](/image/5.jpg)
+![](/img/5.jpg)
 
 ## Part 3: Interacting with React Components
 
