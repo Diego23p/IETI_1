@@ -27,6 +27,8 @@ git clone https://github.com/Diego23p/IETI_1.git
 
 Para ejecutar la aplicación:
 ```
+npm install react-scripts --save
+
 npm start
 ```
 
