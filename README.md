@@ -48,6 +48,9 @@ Módulos JSX y React Components:
 
 ## Part 3: Interacting with React Components
 
+![](/img/6.jpg)
+
+![](/img/7.jpg)
 
 
 # Autores
