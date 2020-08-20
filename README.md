@@ -1,6 +1,15 @@
 # React JS Intro
 
-## prerrequisitos
+### Codigo de honor:
+Debes seguir el Código de honor del ingeniero de sistemas para defender el estándar de integridad académica de la ECI:
+
+* Tus respuestas a tareas, cuestionarios y exámenes deben ser tu propio trabajo (excepto para las tareas que permiten explícitamente la colaboración).
+
+* No puedes compartir tus soluciones de tareas, cuestionarios o exámenes con otra persona a menos que el instructor lo permita explícitamente. Esto incluye cualquier cosa escrita por ti, como también cualquier solución oficial proporcionada por el docente o el monitor del curso.
+
+* No puedes participar en otras actividades que mejorarán de manera deshonesta tus resultados o que mejorarán de manera deshonesta o dañarán los resultados de otras personas.
+
+## Prerrequisitos
 
 ### npm
 
@@ -27,7 +36,7 @@ git clone https://github.com/Diego23p/IETI_1.git
 
 Para ejecutar la aplicación:
 ```
-npm install react-scripts --save
+npm install
 
 npm start
 ```
